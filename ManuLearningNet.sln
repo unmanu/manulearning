@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9E6100B8-E83
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp.Server.PerPage.NoAuth", "src\BlazorApp.Server.PerPage.NoAuth\BlazorApp.Server.PerPage.NoAuth.csproj", "{301AEF2B-9251-45BD-A08A-ED7FAE4EE155}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp.Server.PerPage.Auth", "src\BlazorApp.Server.PerPage.Auth\BlazorApp.Server.PerPage.Auth.csproj", "{100DCC84-837C-4580-8EBF-6F1914039CF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp.Server.PerPage.Auth", "src\BlazorApp.Server.PerPage.Auth\BlazorApp.Server.PerPage.Auth.csproj", "{100DCC84-837C-4580-8EBF-6F1914039CF8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BlazorApp.Server.PerPage.Auth", "BlazorApp.Server.PerPage.Auth", "{90362E79-6680-4CD8-AE08-7519B578B653}"
 EndProject
@@ -15,9 +15,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BlazorApp.Server.PerPage.No
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BlazorApp.Auto.PerPage.NoAuth", "BlazorApp.Auto.PerPage.NoAuth", "{92BD4C61-69C4-4506-AD2C-FF70E16A90EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp.Auto.PerPage.NoAuth", "src\BlazorApp.Auto.PerPage.NoAuth\BlazorApp.Auto.PerPage.NoAuth\BlazorApp.Auto.PerPage.NoAuth.csproj", "{397B70F4-0B0D-4A08-BA5A-66D870CAE0BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp.Auto.PerPage.NoAuth", "src\BlazorApp.Auto.PerPage.NoAuth\BlazorApp.Auto.PerPage.NoAuth\BlazorApp.Auto.PerPage.NoAuth.csproj", "{397B70F4-0B0D-4A08-BA5A-66D870CAE0BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp.Auto.PerPage.NoAuth.Client", "src\BlazorApp.Auto.PerPage.NoAuth\BlazorApp.Auto.PerPage.NoAuth.Client\BlazorApp.Auto.PerPage.NoAuth.Client.csproj", "{90933988-3113-4D17-BBDA-7DC38C0A0AEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp.Auto.PerPage.NoAuth.Client", "src\BlazorApp.Auto.PerPage.NoAuth\BlazorApp.Auto.PerPage.NoAuth.Client\BlazorApp.Auto.PerPage.NoAuth.Client.csproj", "{90933988-3113-4D17-BBDA-7DC38C0A0AEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
