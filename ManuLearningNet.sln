@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9E6100B8-E832-4D90-9780-46E517FE154C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp.Server.PerPage.NoAuth", "src\BlazorApp.Server.PerPage.NoAuth\BlazorApp.Server.PerPage.NoAuth.csproj", "{301AEF2B-9251-45BD-A08A-ED7FAE4EE155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp.Server.PerPage.Auth", "src\BlazorApp.Server.PerPage.Auth\BlazorApp.Server.PerPage.Auth.csproj", "{100DCC84-837C-4580-8EBF-6F1914039CF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{301AEF2B-9251-45BD-A08A-ED7FAE4EE155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301AEF2B-9251-45BD-A08A-ED7FAE4EE155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301AEF2B-9251-45BD-A08A-ED7FAE4EE155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301AEF2B-9251-45BD-A08A-ED7FAE4EE155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100DCC84-837C-4580-8EBF-6F1914039CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100DCC84-837C-4580-8EBF-6F1914039CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100DCC84-837C-4580-8EBF-6F1914039CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100DCC84-837C-4580-8EBF-6F1914039CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{301AEF2B-9251-45BD-A08A-ED7FAE4EE155} = {9E6100B8-E832-4D90-9780-46E517FE154C}
+		{100DCC84-837C-4580-8EBF-6F1914039CF8} = {9E6100B8-E832-4D90-9780-46E517FE154C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A96542CD-3F1B-439D-9CBE-3F32480EAB0E}
+	EndGlobalSection
+EndGlobal
